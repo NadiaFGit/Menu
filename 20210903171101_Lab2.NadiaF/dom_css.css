@@ -1,0 +1,62 @@
+
+nav{
+    text-align: center;
+    float: center;
+    list-style: none;
+    padding-left: 30px;
+}
+
+.menu_entrees {
+	font-family: Segeo Print;
+}
+
+
+.menu_wrapper{
+    width: 100%;
+    
+}
+ 
+.topper{
+    padding: 2%;
+    text-align: Center;
+    height: 150px;
+   
+
+}
+ 
+.menu_entrees li{
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+
+.menu_list{
+    padding-bottom: 15px;
+}
+
+.menu_list li{
+    display: inline;
+    list-style-type: none;
+    padding-left: 15px;
+}
+	
+.veg_leaf{
+    list-style-image:url('leaf.png');
+}
+
+	
+.hamburger{
+    color: red;  
+}
+	
+.fish{
+    color: #000000; 
+}
+   
+.tofu{
+    color: green;  
+}
+	
+.portobello{
+    color:green; 
+}
